@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+import tp_mir.control
+if __name__ == '__main__':
+    tp_mir.control.loop()
